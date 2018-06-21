@@ -1,6 +1,6 @@
 {
   "name": "react-native-form-validation-smoov",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Simple form validation",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "form",
     "validation"
   ],
-  "author": "galikvalkin",  
+  "author": "galikvalkin",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/galikvalkin/react-native-form-validation/issues"
